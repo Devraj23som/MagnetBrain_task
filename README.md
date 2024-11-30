@@ -6,3 +6,5 @@
 * npm install
 ## After that run command
 * npm run dev
+
+## change your mongoUrl and jwtkey and expire date 
